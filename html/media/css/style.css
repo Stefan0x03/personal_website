@@ -1,0 +1,58 @@
+  * {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+  }
+
+  html {
+    font-family: Verdana, sans-serif;
+    font-size: 18px;
+    line-height 25px;
+    text-align: center;
+    word-wrap: break-word;
+  }
+
+  .name {
+	  float: left;
+  }
+  .name a {
+	  text-decoration: none;  
+  }
+
+  .top_nav {
+	  float:right;
+  }
+  .top_nav a {
+	  text-decoration: none;
+  }
+
+  .wrap {
+  width : 615px;
+  margin: auto;
+  }
+
+  .top_group {
+  line-height: 50px;
+  }
+
+  .bot_nav {
+	  line-height: 50px;  
+  }
+
+  .bot_nav a {
+	  text-decoration: none;  
+  }
+
+  .border {
+  	  line-height: 5px;
+  }
+
+  .content {
+	  width: 600px;
+	  margin: auto;
+  }
+
+  p {
+	  margin-top: 10px;
+	  margin-bottom: 10px;
+ 	  line-height: 25px;
+  }
